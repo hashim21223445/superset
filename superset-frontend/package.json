@@ -133,7 +133,7 @@
     "d3-scale": "^2.1.2",
     "dom-to-image-more": "^3.2.0",
     "emotion-rgba": "0.0.12",
-    "fast-glob": "^3.2.7",
+    "fast-glob": "^3.3.3",
     "fs-extra": "^10.0.0",
     "fuse.js": "^7.0.0",
     "geolib": "^2.0.24",
