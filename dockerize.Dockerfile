@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 
-FROM alpine:latest
+FROM alpine:3.23.3
 
 ARG DOCKERIZE_VERSION=v0.7.0
 
