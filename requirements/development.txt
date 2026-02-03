@@ -167,7 +167,7 @@ prophet==1.1.5
     # via apache-superset
 proto-plus==1.22.2
     # via google-cloud-bigquery-storage
-protobuf==4.23.0
+protobuf==6.33.5
     # via
     #   google-api-core
     #   google-cloud-bigquery-storage
